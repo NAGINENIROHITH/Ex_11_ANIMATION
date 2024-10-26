@@ -217,7 +217,7 @@ public class MainActivity extends AppCompatActivity {
         android:duration="5000" >
     </rotate>
 </set>
-``
+```
 ## Fade.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>

@@ -263,7 +263,8 @@ public class MainActivity extends AppCompatActivity {
     </scale>
 </set>
 ```
-## Slide.xml
+
+##  Slide.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android"
@@ -295,8 +296,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/ab64f10a-617c-4a09-b4ab-491f7318e4b5)
 
-
+![image](https://github.com/user-attachments/assets/bf8deec0-31e6-49d6-a719-7af9204a08c3)
 
 
 ## RESULT
+The application was successfully developed to add animations (move, blink, fade, clockwise, zoom, and slide) to an ImageView. Upon interacting with the UI, the animations are applied as expected.
